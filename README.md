@@ -15,7 +15,7 @@
       </p>
     </section>
     <section id="neden-digiturk">
-      <h2>📺 Digiturk Avantajları</h2>
+      <h2>📺 Digiturk Avantajları.</h2>
       <ul>
         <li><strong>4K Kalite:</strong> Ultra net görüntü</li>
         <li><strong>Kesintisiz:</strong> Donma olmadan izleme keyfi</li>
